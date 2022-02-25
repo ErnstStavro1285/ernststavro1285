@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Malcom
+- 👀 I’m interested in web development and software development
+- 🌱 I’m currently learning javascript, html, css, react, react-native, python, c#
+- 📫 How to reach me ? through my email : 951285100218b712@gmail.com
